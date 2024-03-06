@@ -1,0 +1,14 @@
+/home/fifthzoner/Documents/Projects/calculator-dotnet/bin/Debug/net8.0/calculator-dotnet
+/home/fifthzoner/Documents/Projects/calculator-dotnet/bin/Debug/net8.0/calculator-dotnet.deps.json
+/home/fifthzoner/Documents/Projects/calculator-dotnet/bin/Debug/net8.0/calculator-dotnet.runtimeconfig.json
+/home/fifthzoner/Documents/Projects/calculator-dotnet/bin/Debug/net8.0/calculator-dotnet.dll
+/home/fifthzoner/Documents/Projects/calculator-dotnet/bin/Debug/net8.0/calculator-dotnet.pdb
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/calculator-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/calculator-dotnet.AssemblyInfoInputs.cache
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/calculator-dotnet.AssemblyInfo.cs
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/calculator-dotnet.csproj.CoreCompileInputs.cache
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/calculator-dotnet.dll
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/refint/calculator-dotnet.dll
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/calculator-dotnet.pdb
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/calculator-dotnet.genruntimeconfig.cache
+/home/fifthzoner/Documents/Projects/calculator-dotnet/obj/Debug/net8.0/ref/calculator-dotnet.dll
